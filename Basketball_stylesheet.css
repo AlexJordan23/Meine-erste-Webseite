@@ -1,0 +1,78 @@
+.body_basketball{
+    background-color: black;
+}
+
+
+.ueberschrift_container{
+    display: flex;
+    justify-content: center;
+    color:aliceblue ;
+}
+
+.bild_container{
+display: flex;
+justify-content:space-between;
+}
+
+.spieler_bild_container{
+    max-height: 300px;
+}
+
+.basketballtext_container{
+    display: flex;
+    justify-content: center;
+    color:aliceblue;
+}
+        
+.euirfhcuwehrf_container{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    
+}
+
+.basketball_ball_container{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.grid_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.grid_container{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.grid_container_white{
+    background-color: blue (128, 255, 0);
+}
+
+.grid_container_blue{
+    justify-content: center;
+    background-color: blue;
+}
+
+.text_class{
+    color: aliceblue;
+}
+
+.container_white{
+    background-color: white;
+}
+
+.player_info{
+    color: white;
+    font-size: large;
+}
+
+.player_info_container{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100%;
+}

@@ -1,0 +1,21 @@
+.ueberschrift_container_3{
+    display: flex;
+    justify-content: center;
+}
+
+
+.grid_container{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 3fr;
+    gap: 5px;
+} 
+
+.picture_container{
+    background-color: darkblue;
+}
+
+.text_container{
+    color: aqua;
+    background-color: black;
+}

@@ -1,0 +1,27 @@
+.ueberschrift{
+    color: rgb(255, 247, 0);
+    background-color: black;
+}
+
+.body_container{
+    background-color: black;
+    color: white;
+}
+
+.navigations_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ueberschrift_schrift{
+    color: white;
+    font-size: larger;
+    
+}
+
+.text_container{
+
+height: 50%;
+width: 66%;
+}
